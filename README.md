@@ -23,5 +23,10 @@ make
 ```
 
 ### run
+```
+cd build
+./bin/NFMatch model_with_normal.ply  scene_with_normal.ply
+```
+
 
 
